@@ -16,6 +16,8 @@ public class QuizApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        login xx = new login();
+        xx.setVisible(true);
     }
     
 }
